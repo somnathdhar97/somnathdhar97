@@ -2,6 +2,7 @@
 
 I am Somnath Dhar, a Full Stack Developer. I am currently working at National Informatics Centre, Kolkata. 
 
+```yaml
 name: Piyush Malhotra
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
@@ -34,6 +35,8 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
+```
 
 <!--
 **somnathdhar97/somnathdhar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
