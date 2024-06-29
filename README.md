@@ -42,7 +42,7 @@ hobbies: ["Teaching", "Movie", "Coding", "Cricket * Football", "Discussion", "Wr
 ### Languages
 
 ![C](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3178C6?style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3178C6?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/Csharp-3178C6?style=for-the-badge&logo=Csharp&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
