@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Somnath Dhar
+I am Somnath Dhar, a Full Stack Developer. I am currently working at National Informatics Centre, Kolkata. 
 
 <!--
 **somnathdhar97/somnathdhar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
