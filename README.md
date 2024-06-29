@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />  
 </p>
 
-I am Somnath Dhar, a Full Stack Developer. I am currently working at National Informatics Centre, Kolkata. 
 A Little Bit About Me and My Interests
 
 ```yaml
