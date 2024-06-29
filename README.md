@@ -6,38 +6,35 @@ I am Somnath Dhar, a Full Stack Developer. I am currently working at National In
 A Little Bit About Me and My Interests
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
+name: Somnath Dhar
+located_in: Kolkata, India
 current_job: Full Stack Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Developer",
+    "Master of Science in Computer Science",
+    "Bachelor of Science in Computer Science",
   ]
-company: Soulber
+Work Organization: National Informatics Centre, Kolkata 
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
+    "Problem Solving",
+    "Data Structure & Algorithms",
     "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Teaching",
   ]
 technical_background:
   [
     "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Web Development"
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_working: ["Angular, .NET Core, PostgreSQL, GIT"]
+currently_learning: ["Devops"]
+2024 Goals: ["Create robust application & learn the Devops"]
+hobbies: ["Teaching", "Movie", "Coding", "Cricket * Football", "Discussion", "Writing Poems", "Listening to songs & stories"]
 
 ```
 
