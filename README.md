@@ -2,6 +2,10 @@
 
 I am Somnath Dhar, a Full Stack Developer. I am currently working at National Informatics Centre, Kolkata. 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <!--
 **somnathdhar97/somnathdhar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
