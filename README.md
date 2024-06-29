@@ -5,7 +5,7 @@
 </p>  
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Connect me!💬
 </h1>
 
 <p align="center">
