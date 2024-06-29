@@ -18,16 +18,13 @@
 name: Somnath Dhar
 located_in: Kolkata, India
 current_job: Full Stack Developer
-
 education:
   [
     "Self-Taught Developer",
     "Master of Science in Computer Science",
     "Bachelor of Science in Computer Science",
   ]
-
 Work Organization: National Informatics Centre, Kolkata 
-
 fields_of_interests:
   [
     "Web Development",
@@ -36,13 +33,11 @@ fields_of_interests:
     "UI/UX",
     "Teaching",
   ]
-
 technical_background:
   [
     "Full Stack Developer"
     "Intern - Web Development"
   ]
-  
 currently_working: ["Angular, .NET Core, PostgreSQL, GIT"]
 currently_learning: ["Devops"]
 2024 Goals: ["Create robust application & learn the Devops"]
