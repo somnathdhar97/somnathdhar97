@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />  
-</p>
-
-A Little Bit About Me and My Interests
+  A Little Bit About Me and My Interests
 
 ```yaml
 name: Somnath Dhar
@@ -38,6 +36,7 @@ currently_learning: ["Devops"]
 hobbies: ["Teaching", "Movie", "Coding", "Cricket * Football", "Discussion", "Writing Poems"]
 
 ```
+</p>
 
 <!--
 **somnathdhar97/somnathdhar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
