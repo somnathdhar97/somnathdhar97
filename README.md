@@ -35,7 +35,7 @@ technical_background:
 currently_working: ["Angular, .NET Core, PostgreSQL, GIT"]
 currently_learning: ["Devops"]
 2024 Goals: ["Create robust application & learn the Devops"]
-hobbies: ["Teaching", "Movie", "Coding", "Cricket * Football", "Discussion", "Writing Poems", "Listening to songs & stories"]
+hobbies: ["Teaching", "Movie", "Coding", "Cricket * Football", "Discussion", "Writing Poems"]
 
 ```
 
