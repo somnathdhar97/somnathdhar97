@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello...%20&fontSize=90" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello...%20&fontSize=90" />  
 </p>  
-
 <h1 align="center">
   Connect me!💬
 </h1>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/somnath-dhar-31453721b/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
