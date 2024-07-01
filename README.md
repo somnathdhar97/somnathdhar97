@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello...%20&fontSize=90"/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello...%20&fontSize=90&color=blue"/>  
 </p> 
 
 <h2> 👨 &nbsp;A Little Bit About Me and My Interests</h2>
