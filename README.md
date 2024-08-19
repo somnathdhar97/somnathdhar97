@@ -16,7 +16,8 @@ education:
     "Master of Science in Computer Science",
     "Bachelor of Science in Computer Science",
   ]
-Work Organization: National Informatics Centre, Kolkata 
+Current Work Organization: GeoTech InfoServices Pvt. Ltd., Kolkata, 
+Previous Work Organization: [National Informatics Centre, Kolkata], 
 fields_of_interests:
   [
     "Web Development",
