@@ -16,8 +16,8 @@ education:
     "Master of Science in Computer Science",
     "Bachelor of Science in Computer Science",
   ]
-Current Work Organization: GeoTech InfoServices Pvt. Ltd., Kolkata, 
-Previous Work Organization: [National Informatics Centre, Kolkata], 
+Current Work Organization: [GeoTech InfoServices Pvt. Ltd., Kolkata], 
+Previous Work Organization: [National Informatics Centre, Kolkata],
 fields_of_interests:
   [
     "Web Development",
@@ -31,9 +31,9 @@ technical_background:
     "Full Stack Developer"
     "Intern - Web Development"
   ]
-currently_working: ["Angular, .NET Core, PostgreSQL, GIT"]
-currently_learning: ["Devops"]
-2024 Goals: ["Create robust application & learn the Devops"]
+currently_working: ["Angular, .NET Core, React, SQL Server, PostgreSQL, GIT, BitBucket, JIRA, CI/CD, Azure"]
+currently_learning: ["Azure DevOps"]
+2025 Goals: ["Create robust application & Azure DevOps"]
 hobbies: ["Teaching", "Movie", "Coding", "Cricket * Football", "Discussion", "Writing Poems"]
 
 ```
