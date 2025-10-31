@@ -12,8 +12,8 @@ located_in: Kolkata, India
 current_job: Software Engineer(.NET + Angular + Azure)
 education:
   [
+    "M.Sc. in Computer Science",
     "Self-Taught Developer",
-    "Master of Science in Computer Science",
   ]
 Current Work Organization: [FinregE Ltd., London], 
 Previous Work Organization: [National Informatics Centre, Kolkata, GeoTech InfoServices Pvt. Ltd., Kolkata],
