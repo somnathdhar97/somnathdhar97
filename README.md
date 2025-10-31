@@ -9,17 +9,20 @@
 ```yaml
 name: Somnath Dhar
 located_in: Kolkata, India
-current_job: Full Stack Developer
+current_job: Software Engineer(.NET + Angular + Azure)
 education:
   [
     "Self-Taught Developer",
     "Master of Science in Computer Science",
   ]
-Current Work Organization: [GeoTech InfoServices Pvt. Ltd., Kolkata], 
-Previous Work Organization: [National Informatics Centre, Kolkata],
+Current Work Organization: [FinregE Ltd., London], 
+Previous Work Organization: [National Informatics Centre, Kolkata, GeoTech InfoServices Pvt. Ltd., Kolkata],
 fields_of_interests:
   [
     "Web Development",
+    "Back End",
+    "Front End",
+    "Cloud",
     "Problem Solving",
     "Data Structure & Algorithms",
     "UI/UX",
