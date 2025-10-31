@@ -14,7 +14,6 @@ education:
   [
     "Self-Taught Developer",
     "Master of Science in Computer Science",
-    "Bachelor of Science in Computer Science",
   ]
 Current Work Organization: [GeoTech InfoServices Pvt. Ltd., Kolkata], 
 Previous Work Organization: [National Informatics Centre, Kolkata],
